@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  wistia: MyString
+  play_count: 1
+  hidden: false
+
+two:
+  wistia: MyString
+  play_count: 1
+  hidden: false
